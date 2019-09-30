@@ -1,6 +1,6 @@
 {
-  "name": "User",
-  "version": "0.0.1",
+  "name": "com.anli.user",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "lint": "eslint \"**/*.ts*\"",
